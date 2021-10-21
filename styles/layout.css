@@ -1,0 +1,22 @@
+.layout-header, .layout-footer {
+    background-color: teal;
+    color: goldenrod;
+    font-size: 34px;
+    align-items: center;
+    text-align: center;
+}
+
+.layout-header {
+    padding: 30px;
+}
+
+.layout-footer {
+    padding: 20px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
